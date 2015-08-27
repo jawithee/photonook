@@ -1,0 +1,1 @@
+This graphical software is designed for users to beable to design and build photobooths at their free will.
